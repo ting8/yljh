@@ -1,2 +1,2 @@
-<title>跑马灯</title><con><saoma>欢迎大家使用咪咪云播</saoma>
+<title>跑马灯</title><con><saoma>欢迎大家使用幽灵计划</saoma>
 <saoms>连接</saomas></con>
